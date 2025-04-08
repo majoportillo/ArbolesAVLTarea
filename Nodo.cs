@@ -1,13 +1,13 @@
 public class Nodo
 {
-    public int Value;
-    public Nodo Left;
-    public Nodo Right;
-    public int Height; // Solo útil para AVL
+    public int Valor;
+    public Nodo Izq;
+    public Nodo Derecha;
+    public int Altura; 
 
-    public Nodo(int value)
+    public Nodo(int Valor)
     {
-        Value = value;
-        Height = 1; // para AVL, si usas BST no afecta
+        this.Valor = Valor;
+        Altura = 1; 
     }
 }

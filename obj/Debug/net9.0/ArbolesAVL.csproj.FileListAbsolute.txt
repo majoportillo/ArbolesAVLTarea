@@ -1,0 +1,15 @@
+D:\Tareas progra\ArbolesAVL\bin\Debug\net9.0\ArbolesAVL.exe
+D:\Tareas progra\ArbolesAVL\bin\Debug\net9.0\ArbolesAVL.deps.json
+D:\Tareas progra\ArbolesAVL\bin\Debug\net9.0\ArbolesAVL.runtimeconfig.json
+D:\Tareas progra\ArbolesAVL\bin\Debug\net9.0\ArbolesAVL.dll
+D:\Tareas progra\ArbolesAVL\bin\Debug\net9.0\ArbolesAVL.pdb
+D:\Tareas progra\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tareas progra\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.AssemblyInfoInputs.cache
+D:\Tareas progra\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.AssemblyInfo.cs
+D:\Tareas progra\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.csproj.CoreCompileInputs.cache
+D:\Tareas progra\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.sourcelink.json
+D:\Tareas progra\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.dll
+D:\Tareas progra\ArbolesAVL\obj\Debug\net9.0\refint\ArbolesAVL.dll
+D:\Tareas progra\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.pdb
+D:\Tareas progra\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.genruntimeconfig.cache
+D:\Tareas progra\ArbolesAVL\obj\Debug\net9.0\ref\ArbolesAVL.dll
